@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna 4.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3FFB99-F04F-43DD-A9A5-4FB5BE10B6F1}|Laboratorna 4.2\\Laboratorna 4.2.vcxproj|C:\\Users\\Compik_2\\source\\repos\\Laboratorna 4.2\\Laboratorna 4.2\\Laboratorna 4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D3FFB99-F04F-43DD-A9A5-4FB5BE10B6F1}|Laboratorna 4.2\\Laboratorna 4.2.vcxproj|solutionrelative:Laboratorna 4.2\\Laboratorna 4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laboratorna 4.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna 4.2\\Laboratorna 4.2\\Laboratorna 4.2.cpp",
+              "RelativeDocumentMoniker": "Laboratorna 4.2\\Laboratorna 4.2.cpp",
+              "ToolTip": "C:\\Users\\Compik_2\\source\\repos\\Laboratorna 4.2\\Laboratorna 4.2\\Laboratorna 4.2.cpp",
+              "RelativeToolTip": "Laboratorna 4.2\\Laboratorna 4.2.cpp",
+              "ViewState": "AgIAAAkAAABYAAAAAAAcwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T07:14:13.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
